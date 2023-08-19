@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @phedwin
 - 👀 I’m a VueJs and Laravel developer.
-- 🎉 Commonly used frameworks are Inertiajs, AlpineJs, Livewire & Tailwind.
+- 🎉 Commonly used frameworks & packages are Inertiajs, AlpineJs, Livewire && Tailwind.
 - 🌱 I’m currently learning python for ML && statistics.
 - 💞️ I’m looking to collaborate on any PHP & JavaScript projects.
+- 🥁 Contributing to open source
 - 📫 How to reach me engineer@realmelevators.com
 
 <!---
