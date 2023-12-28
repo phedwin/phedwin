@@ -1,7 +1,5 @@
 ## Hello! 🌍 I'm Phedwin - VueJs & Laravel Fanboy! 👨‍💻
 
-Welcome to my digital realm where code meets creativity and bugs bow down! 🚀
-
 ### About Me 🚀
 - 🔥 Passionate about Vue.js, Laravel, and all things PHP!
 - 🚀 Crafting seamless experiences with Inertia.js and Livewire.
