@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @phedwin.
-- 👀 I’m a VueJs and Laravel developer
-- Also super interested in PHP
-- 🎉Mostly, InertiaJs, Livewire.
-- 📫 How to reach me engineer@realmelevators.com
+## Hello! 🌍 I'm Phedwin - VueJs & Laravel Fanboy! 👨‍💻
+
+Welcome to my digital realm where code meets creativity and bugs bow down! 🚀
+
+### About Me 🚀
+- 🔥 Passionate about Vue.js, Laravel, and all things PHP!
+- 🚀 Crafting seamless experiences with Inertia.js and Livewire.
+
+### Tech Wizardry 🧙‍♂️
+```javascript
+const skills = {
+  languages: ['PHP', 'JavaScript'],
+  frameworks: ['Vue.js', 'Laravel', 'Inertia.js', 'Livewire'],
+  go-to ORM: ['Prisma', 'Sequelize'],
+
+};
+
+```
+📧 Drop me a message at [engineer@realmelevators.com](mailto:engineer@realmelevators.com)
 
 <!---
 
