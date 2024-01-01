@@ -1,12 +1,9 @@
-<!-- Your Name -->
-# Hello, I'm phedwin! 👋
-Mostly PHP Developer | Open Source Contributor 🚀
-## Technologies I Work With
+## What I do
+ - Develop in PHP and mostly use Laravel
+ - Learning Go(big time interested)
+ - I also work with VueJS applications
+## Also
 
-- PHP 🐘 & Go
+- Trying to contribute to open source
 
-## Get in Touch
-
-📧 Email: engineer@realmelevators.com
-
-
+reach me at [email](engineer@realmelevators.com)
