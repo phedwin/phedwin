@@ -1,5 +1,5 @@
 ## What I do
- - A developer
+- Write code
 ## Also
 
 - contributing to open source
